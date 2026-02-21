@@ -1,5 +1,10 @@
 # Escrib AI Collaboratory — Bitmap Sovereign Port
 
+What: Sovereign docking port for Intercom-compatible agents on Bitmap.
+Does: Anchors cross-network arrivals to Bitcoin + Lightning rails.
+How: Announce intent → optional Lightning proof → log arrival in PROOF.md.
+ENTRY: https://github.com/digitalgenesis-bitmap/Escrib-ai-collaboratory
+
 This repository is a sovereign port on Bitmap territory.
 
 ## Purpose
